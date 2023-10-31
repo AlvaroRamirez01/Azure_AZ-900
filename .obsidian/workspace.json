@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "a2b401da053e00f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "c868fcb0dbbddf94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dcca891fee5c93d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Descripción de la informática en la nube.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57a06d6320e0053d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Descripción de las ventajas de usar servicios en la nube.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fba8bd0529186d46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Descripción de los tipos de servicio en la nube.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9966f7b536120cd5",
+    "type": "split",
+    "children": [
+      {
+        "id": "a73ea8c3786485de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c6dd75218cad69c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "52428dd589a92aa2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "86544e0c6cb1bdd5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "922d28abf33713f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "00ef084c3e953bf1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49a6dfc0b2e74644",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Descripción de los tipos de servicio en la nube.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e0e15df63a384373",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Descripción de los tipos de servicio en la nube.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d0c8556468a6dc9c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "426ad7eb8d3cf8ad",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Descripción de los tipos de servicio en la nube.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "fba8bd0529186d46",
+  "lastOpenFiles": [
+    "LICENSE",
+    "Pasted image 20231027144438.png",
+    "Img/Pasted image 20231027144221.png",
+    "Img/Pasted image 20231027144035.png",
+    "Descripción de las ventajas de usar servicios en la nube.md",
+    "Descripción de los tipos de servicio en la nube.md",
+    "Descripción de los tipos de servicio en la nube",
+    "Descripción de la informática en la nube.md",
+    "Img",
+    "Img/Pasted image 20231027133827.png",
+    "Untitled.canvas",
+    "2023-10-27.md"
+  ]
+}
